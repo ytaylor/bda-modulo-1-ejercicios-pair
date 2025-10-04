@@ -1,6 +1,8 @@
 Hola promo 59
  
  Prueba Fabi 123
+
+ Hola compis, soy Marina
  
  ## Comandos para subir un proyecto a GitHub
 
@@ -28,4 +30,4 @@ git push
 ```
 
 Gracias por leer promo 59
-Hola compis, soy Ma
+Hola compis, soy Marina
