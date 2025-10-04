@@ -15,3 +15,10 @@ git push
 ## Descripcion: 
 
 Este repositorio contiene los comandos esenciales para subir un proyecto a GitHub desde la terminal. Incluye pasos para crear un repositorio, navegar a la carpeta del proyecto, añadir archivos, hacer commits y subir los cambios al repositorio remoto.
+
+## Comandos:
+```bash
+git add -A
+git commit -m "Mensaje del commit"
+git push 
+```
