@@ -25,3 +25,5 @@ git add -A
 git commit -m "Mensaje del commit"
 git push 
 ```
+
+Gracias por leer promo 59
