@@ -7,6 +7,8 @@ Hola promo 59
  Prueba número 55 Leire
 
  Prueba Rocio 1
+
+ Prueba y error Bet
  
  ## Comandos para subir un proyecto a GitHub
 
