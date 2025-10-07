@@ -1,5 +1,5 @@
 Hola promo 59
- Estoy boba
+ 
  
  ## Comandos para subir un proyecto a GitHub
 
@@ -25,3 +25,6 @@ git add -A
 git commit -m "Mensaje del commit"
 git push 
 ```
+
+Gracias por leer promo 59
+Hola compis, soy Marina
